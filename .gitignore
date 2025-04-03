@@ -11,3 +11,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/.idea
+/Tutorial4/obj
+/Tutorial4Tests/obj
+/Tutorial4Tests/bin
+/Tutorial4.sln.DotSettings.user
