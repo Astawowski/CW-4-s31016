@@ -1,5 +1,7 @@
 using Tutorial3.Models;
 
+namespace Tutorial3;
+
 public static class Database
 {
     public static List<Dept> GetDepts() => new List<Dept>
